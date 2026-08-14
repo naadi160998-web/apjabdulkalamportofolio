@@ -6,21 +6,21 @@ const Achievments = () => {
       id: 1,
       title: 'Served as the 11th President of India from 2002 to 2007.',
       description: "He was popularly known as the People's President.",
-      image: '/src/assets/1ache.jpg',
+      image: '/images/1ache.jpg',
       interval: 3000
     },
     {
       id: 2,
       title: 'Contributed to the development of Agni and Prithvi missiles.',
       description: "Played a major role in India's missile development programme.",
-      image: '/src/assets/2aapj.jpg',
+      image: '/images/2aapj.jpg',
       interval: 3000
     },
     {
       id: 3,
       title: 'Served as Project Director of SLV-III.',
       description: 'Helped successfully launch the Rohini satellite into orbit.',
-      image: '/src/assets/1aapj.jpg',
+      image: '/images/1aapj.jpg',
       interval: 3000
     }
   ];

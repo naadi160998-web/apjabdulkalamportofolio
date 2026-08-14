@@ -10,28 +10,28 @@ const Projects = () => {
       id: 1,
       title: 'Kalam was the Project Director of SLV-3.',
       description: 'It successfully placed the Rohini satellite (RS-1) into orbit in July 1980',
-      image: ['/src/assets/1apj.jpg', '/src/assets/1aapj.jpg', '/src/assets/1bapj.jpg'],
+      image: ['/images/1apj.jpg', '/images/1aapj.jpg', '/images/1bapj.jpg'],
       interval: [3000, 2000, 3000]
     },
     {
       id: 2,
       title: 'Kalam played a leading role in the IGMDP.',
       description: 'The programme contributed to the development of missiles including Agni and Prithvi',
-      image: ['/src/assets/2apj.jpg', '/src/assets/2aapj.jpg', '/src/assets/2bapj.jpg'],
+      image: ['/images/2apj.jpg', '/images/2aapj.jpg', '/images/2bapj.jpg'],
       interval: [3000, 2000, 3000]
     },
     {
       id: 3,
       title: 'Kalam helped develop the vision of Technology Vision 2020.',
       description: 'It focused on making India a developed nation through science, technology and innovation.',
-      image: ['/src/assets/3apj.jpg', '/src/assets/3aapj.jpg'],
+      image: ['/images/3apj.jpg', '/images/3aapj.jpg'],
       interval: [3000, 2000, 3000]
     },
     {
       id: 4,
       title: 'PURA aimed to provide better facilities and connectivity in rural areas.',
       description: 'It focused on physical, electronic, knowledge and economic connectivity.',
-      image: ['/src/assets/4apj.jpg', '/src/assets/4aapj.jpg', '/src/assets/4bapj.jpg'],
+      image: ['/images/4apj.jpg', '/images/4aapj.jpg', '/images/4bapj.jpg'],
       interval: [3000, 2000, 3000]
     }
   ]

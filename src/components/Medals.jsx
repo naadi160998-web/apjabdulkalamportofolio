@@ -10,19 +10,19 @@ const Medals = () => {
       id: 1,
       title: "Bharat Ratna is India's highest civilian award.",
       description: 'Kalam received it in 1997 for his contributions to science and public service.',
-      image: '/src/assets/1medal.jpg',
+      image: '/images/1medal.jpg',
     },
     {
       id: 2,
       title: "He received the Padma Vibhushan in 1990.",
       description: 'It recognized his exceptional contribution to science and engineering.',
-      image: '/src/assets/2medal.jpg',
+      image: '/images/2medal.jpg',
     },
     {
       id: 3,
       title: "He received the Padma Bhushan in 1981.",
       description: 'It was awarded for his distinguished contribution to the nation.',
-      image: '/src/assets/3medal.jpg',
+      image: '/images/3medal.jpg',
     }
   ]
   return (
