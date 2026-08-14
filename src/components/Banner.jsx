@@ -18,7 +18,7 @@ const Banner = () => {
     <Container id="home" fluid className="h-100vh d-flex flex-column justify-content-center align-items-center  p-5 text-light" style={{ backgroundColor: '#343a40' }}>
       <Row className="w-100" xs={1} md={2} className="g-4">
         <Col className='d-flex justify-content-center align-items-center'>
-          <Image src="banner.png" rounded className="img-fluid" />
+          <Image src="../assets/banner.png" rounded className="img-fluid" />
         </Col>
         <Col className='d-flex flex-column justify-content-center'>
           <h1 className="display-4 fs-3 fw-bold">Dr. A.P.J. Abdul Kalam</h1>
